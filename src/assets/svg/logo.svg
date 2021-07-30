@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85.007" height="22.673" viewBox="0 0 85.007 22.673">
+  <g id="Group_27" data-name="Group 27" transform="translate(-99.993 -17.664)">
+    <path id="Icon_awesome-house-damage" data-name="Icon awesome-house-damage" d="M12.753,5.091,3.076,13.626a2.049,2.049,0,0,1-.242.148v8.19a.708.708,0,0,0,.709.709h6.608L8.5,19.448l4.61-2.834-2.664-5.279L17,17.392l-4.61,2.834,1.768,2.447h7.8a.708.708,0,0,0,.709-.709V13.776a2.066,2.066,0,0,1-.233-.142Zm12.518,5.372-2.6-2.3V2.126a.708.708,0,0,0-.709-.709H19.13a.708.708,0,0,0-.709.709V4.415L13.938.457a1.765,1.765,0,0,0-2.367,0L.235,10.463a.709.709,0,0,0-.054,1l.948,1.055a.709.709,0,0,0,1,.054L12.285,3.615a.709.709,0,0,1,.937,0l10.155,8.957a.709.709,0,0,0,1-.054l.948-1.055A.708.708,0,0,0,25.272,10.463Z" transform="translate(99.993 17.664)"/>
+    <text id="Rentbuild" transform="translate(157 35)" font-size="11" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-27.335" y="0">Rentbuild</tspan></text>
+  </g>
+</svg>
